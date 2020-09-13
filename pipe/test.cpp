@@ -1,7 +1,6 @@
 #include <iostream>
 #include <tlpi_hdr.h>
 
-
-int main(){
+int main() {
 	std::cout << "test" << std::endl;
 }
