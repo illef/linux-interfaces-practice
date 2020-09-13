@@ -4,4 +4,5 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 project(linux-interfaces)
 
-ADD_SUBDIRECTORY(tlpi)
+add_subdirectory(tlpi)
+add_subdirectory(pipe)
